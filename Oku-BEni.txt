@@ -1,0 +1,3 @@
+Merhabalar port-scan scriptine hoş geldiniz.
+
+Uygulamayı çalıştırmak için Nmapscript.py isimli python dosyasını açmanız gerekmektedir. 
